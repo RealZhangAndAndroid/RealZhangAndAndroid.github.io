@@ -6,6 +6,12 @@
             },
             {
                 "name": "Editors' choice"
+            },
+            {
+                "name": "Graphic designer's choice"
+            },
+            {
+                "name": "Artist's choice"
             }
         ],
     
@@ -24,6 +30,55 @@
                 "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1484589065579-248aad0d8b13.jpg",
                 "name": "September",
                 "category": "Programmer's choice,Editors' choice"
+            },
+            {
+                "author":"DAVIDCOHEN",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/davidcohen-EhSxbBCjr9A-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1477132394330-d2376dc4c091.jpg",
+                "name": "September",
+                "category": "Artist's choice"
+            },
+            {
+                "author":"Ron Whitaker",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/ron-whitaker-mVuKCYMGZBM-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517241034903-9a4c3ab12f00.jpg",
+                "name": "September",
+                "category": "Artist's choice"
+            },
+            {
+                "author":"Jacob Kiesow",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-kiesow-XakAFeeQZI0-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502847427791-d0194ec4cff4.jpg",
+                "name": "September",
+                "category": "Artist's choice,Programmer's choice"
+            },
+            {
+                "author":"Robert Shunev",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516724562728-afc824a36e84.jpg",
+                "name": "September",
+                "category": "Programmer's choice"
+            },
+            {
+                "author":"Jeremy Perkins",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-UgNjyPkphtU-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1496989981497-27d69cdad83e.jpg",
+                "name": "September",
+                "category": "Programmer's choice"
+            },
+            {
+                "author":"Dominik Lange",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/dominik-lange-Lej_oqHljbk-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506220926022-cc5c12acdb35.jpg",
+                "name": "September",
+                "category": "Programmer's choice"
+            },
+            {
+                "author":"chuttersnap",
+                "url": "https://realzhangandandroid.github.io/amoled/4k/chuttersnap-0M5URHZ_f3k-unsplash.jpg",
+                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498721441674-67b1e1e17a5b.jpg",
+                "name": "September",
+                "category": "Graphic designer's choice"
             }
 		]
 }
