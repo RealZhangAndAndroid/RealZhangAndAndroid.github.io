@@ -1,119 +1,133 @@
 {
-    "Categories": 
-        [
-            {
-                "name": "Programmer's choice"
-            },
-            {
-                "name": "Editors' choice"
-            },
-            {
-                "name": "Engineer's choice"
-            },
-            {
-                "name": "Artist's choice"
-            }
-        ],
-    
-	"Wallpapers":
-        [
-			{
-				"author": "Greg Rakozy",
-				"url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
-				"thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1444703686981-a3abbc4d4fe3.jpg",
-				"name": "September",
-                "category": "Editors' choice"
-			},
-            {
-                "author":"Joel Filipe",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1484589065579-248aad0d8b13.jpg",
-                "name": "September",
-                "category": "Programmer's choice,Editors' choice"
-            },
-            {
-                "author":"DAVIDCOHEN",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/davidcohen-EhSxbBCjr9A-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1477132394330-d2376dc4c091.jpg",
-                "name": "September",
-                "category": "Artist's choice"
-            },
-            {
-                "author":"Ron Whitaker",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/ron-whitaker-mVuKCYMGZBM-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517241034903-9a4c3ab12f00.jpg",
-                "name": "September",
-                "category": "Artist's choice"
-            },
-            {
-                "author":"Jacob Kiesow",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-kiesow-XakAFeeQZI0-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502847427791-d0194ec4cff4.jpg",
-                "name": "September",
-                "category": "Artist's choice,Programmer's choice"
-            },
-            {
-                "author":"Robert Shunev",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516724562728-afc824a36e84.jpg",
-                "name": "September",
-                "category": "Programmer's choice"
-            },
-            {
-                "author":"Jeremy Perkins",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-UgNjyPkphtU-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1496989981497-27d69cdad83e.jpg",
-                "name": "September",
-                "category": "Programmer's choice"
-            },
-            {
-                "author":"Dominik Lange",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/dominik-lange-Lej_oqHljbk-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506220926022-cc5c12acdb35.jpg",
-                "name": "September",
-                "category": "Programmer's choice"
-            },
-            {
-                "author":"chuttersnap",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/chuttersnap-0M5URHZ_f3k-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498721441674-67b1e1e17a5b.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            },
-            {
-                "author":"Osman Rana",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-yM3T1vYh8Oc-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483104879057-379b6c2fe5a2.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            },
-            {
-                "author":"Osman Rana",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-zjPasgivhcc-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523669565872-ab32c1c3a6f2.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            },
-            {
-                "author":"Osman Rana",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-G7VN8NadjO0-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1495420378468-78588a508652.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            },
-            {
-                "author":"Osman Rana",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-JcSsu-NF3qo-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1486783046960-64d2ef697c46.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            },
-            {
-                "author":"Osman Rana",
-                "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-ucy26ngihpM-unsplash.jpg",
-                "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483066005675-b2af4d776b16.jpg",
-                "name": "September",
-                "category": "Engineer's choice"
-            }
-		]
+  "Categories": [
+    {
+      "name": "Programmer's choice"
+    },
+    {
+      "name": "Editors' choice"
+    },
+    {
+      "name": "Engineer's choice"
+    },
+    {
+      "name": "Artist's choice"
+    },
+    {
+      "name": "CEO's choice"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "author": "Greg Rakozy",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1444703686981-a3abbc4d4fe3.jpg",
+      "name": "September",
+      "category": "Editors' choice"
+    },
+    {
+      "author": "Joel Filipe",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1484589065579-248aad0d8b13.jpg",
+      "name": "September",
+      "category": "Programmer's choice,Editors' choice"
+    },
+    {
+      "author": "DAVIDCOHEN",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/davidcohen-EhSxbBCjr9A-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1477132394330-d2376dc4c091.jpg",
+      "name": "September",
+      "category": "Artist's choice"
+    },
+    {
+      "author": "Ron Whitaker",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/ron-whitaker-mVuKCYMGZBM-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517241034903-9a4c3ab12f00.jpg",
+      "name": "September",
+      "category": "Artist's choice"
+    },
+    {
+      "author": "Jacob Kiesow",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-kiesow-XakAFeeQZI0-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502847427791-d0194ec4cff4.jpg",
+      "name": "September",
+      "category": "Artist's choice,Programmer's choice"
+    },
+    {
+      "author": "Robert Shunev",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516724562728-afc824a36e84.jpg",
+      "name": "September",
+      "category": "Programmer's choice"
+    },
+    {
+      "author": "Jeremy Perkins",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-UgNjyPkphtU-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1496989981497-27d69cdad83e.jpg",
+      "name": "September",
+      "category": "Programmer's choice"
+    },
+    {
+      "author": "Dominik Lange",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/dominik-lange-Lej_oqHljbk-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506220926022-cc5c12acdb35.jpg",
+      "name": "September",
+      "category": "Programmer's choice"
+    },
+    {
+      "author": "chuttersnap",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/chuttersnap-0M5URHZ_f3k-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498721441674-67b1e1e17a5b.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-yM3T1vYh8Oc-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483104879057-379b6c2fe5a2.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-zjPasgivhcc-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523669565872-ab32c1c3a6f2.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-G7VN8NadjO0-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1495420378468-78588a508652.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-JcSsu-NF3qo-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1486783046960-64d2ef697c46.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-ucy26ngihpM-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483066005675-b2af4d776b16.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-qwHEa5Mj5I4-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1561162104-f10cf6a8c716.jpg",
+      "name": "September",
+      "category": "CEO's choice"
+    },
+    {
+      "author": "Osman Rana",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-TKFMygXIcqY-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559179961-558bad4572fa.jpg",
+      "name": "September",
+      "category": "CEO's choice"
+    }
+  ]
 }
