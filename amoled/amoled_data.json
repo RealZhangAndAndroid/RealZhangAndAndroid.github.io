@@ -306,13 +306,6 @@
     },
     {
       "author": "Harley-Davidson",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/harley-davidson-uRuPYB0P8to-unsplash.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558981396-5fcf84bdf14d.jpg",
-      "name": "September",
-      "category": "Engineer's choice"
-    },
-    {
-      "author": "Harley-Davidson",
       "url": "https://realzhangandandroid.github.io/amoled/4k/harley-davidson-MAhPucR_Hq4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558980664-ce6960be307d.jpg",
       "name": "September",
@@ -336,6 +329,48 @@
       "author": "Harley-Davidson",
       "url": "https://realzhangandandroid.github.io/amoled/4k/harley-davidson-7zBJa1-S224-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558975355-84703f540cf6.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Jeremy Perkins",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-P2PtvuImLRg-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1493015780735-f7330a5c88f2.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Jeremy Perkins",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-1XgFFEG_RGA-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502085026219-54ac00e06fd9.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Jeremy Perkins",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-kMr6pfPG50g-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1497675803490-b110e156f945.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Jeremy Perkins",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-94Sy8Wqngc4-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506917310505-d967ce16bd72.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Todd Quackenbush",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/todd-quackenbush-eStCg6FRw_E-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1447966531936-911738a2a722.jpg",
+      "name": "September",
+      "category": "Engineer's choice"
+    },
+    {
+      "author": "Mikkel Bech",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/mikkel-bech-yjAFnkLtKY0-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1532298229144-0ec0c57515c7.jpg",
       "name": "September",
       "category": "Engineer's choice"
     }
