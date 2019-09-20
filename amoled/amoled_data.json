@@ -14,6 +14,9 @@
     },
     {
       "name": "CEO's choice"
+    },
+    {
+      "name": "HDR remaster"
     }
   ],
   "Wallpapers": [
@@ -1094,6 +1097,13 @@
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530472604209-582db291e1eb.jpeg",
       "name": "September",
       "category": "Editors' choice"
+    },
+    {
+      "author": "Unknown Master",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/hdr/hot9_20190912161732.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hdrthumb/hot9_20190912161858.jpg",
+      "name": "hdr remaster edition",
+      "category": "HDR remaster"
     }
   ]
 }
