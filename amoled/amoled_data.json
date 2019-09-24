@@ -658,13 +658,6 @@
       "category": "Artist's choice"
     },
     {
-      "author": "Carlos Quintero",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-LdMR0eNEEi8-unsplash.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1480363494744-a47653fab100.jpg",
-      "name": "September",
-      "category": "Artist's choice"
-    },
-    {
       "author": "tiagojoaoreis",
       "url": "https://realzhangandandroid.github.io/amoled/4k/tiagojoaoreis-BDW11tGGIAs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1528158134711-e89943f34728.jpg",
@@ -1151,6 +1144,55 @@
       "author": "Marc-Olivier Jodoin",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-EnFCAJhHqj8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517348613208-e735cf2d1439.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Mikhail Sharov",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/139668_original_6982x3840.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG11.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Oneiro",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/128579_original_3900x2600.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG12.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Rob Potter",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/120524_original_3440x5156.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG13.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "ROGER IVAN CHABLE CAMARA",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/147254_original_2160x3840.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG118.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Michel Duss",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/147996_original_3840x2910.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG15.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Damir Kopezhanov",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/147796_original_2771x4156.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG16.jpeg",
+      "name": "HDR Edition",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "allison christine",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/147717_original_3294x4934.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG17.jpeg",
       "name": "HDR Edition",
       "category": "HDR REMASTER"
     }
