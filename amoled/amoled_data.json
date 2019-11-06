@@ -1037,13 +1037,6 @@
     },
     {
       "author": "Marc-Olivier Jodoin",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-a6LZykiDF3U-unsplash.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1546530829-c87f858deb8f.jpeg",
-      "name": "HDR Edition",
-      "category": "HDR REMASTER"
-    },
-    {
-      "author": "Marc-Olivier Jodoin",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-r__dm-tJvT8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1526933962743-56f248d3cc21.jpeg",
       "name": "HDR Edition",
@@ -1867,6 +1860,34 @@
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1472898965229-f9b06b9c9bbe.jpg",
       "name": "October",
       "category": "Editors' choice"
+    },
+    {
+      "author": "Drew Beamer",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/drew-beamer-3SIXZisims4-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543332164-6e82f355badc.jpg",
+      "name": "November",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Louis Smit",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/louis-smit-Cob2hJtJ8PY-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1512117789060-5de1ecef9eb7.jpg",
+      "name": "November",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Mohammad Metri",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/mohammad-metri-1oKxSKSOowE-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1508700115892-45ecd05ae2ad.jpg",
+      "name": "November",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Patrick Tomasso",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/patrick-tomasso-n-vxsHr9jZA-unsplash.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503876466-1fc5143eda57.jpg",
+      "name": "November",
+      "category": "HDR REMASTER"
     }
   ]
 }
