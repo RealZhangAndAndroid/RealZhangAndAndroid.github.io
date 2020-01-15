@@ -2357,6 +2357,20 @@
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559905270-57b2dca1357d.jpg",
       "name": "January",
       "category": "Artist's choice"
+    },
+    {
+      "author": "Unknown Master",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/remaster1.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/remaster1t.jpg",
+      "name": "January",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Unknown Master",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/remaster2.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/remaster2t.jpg",
+      "name": "January",
+      "category": "HDR REMASTER"
     }
   ]
 }
