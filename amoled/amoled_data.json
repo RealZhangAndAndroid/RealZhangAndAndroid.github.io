@@ -17,6 +17,9 @@
     },
     {
       "name": "HDR REMASTER"
+    },
+    {
+      "name": "Exclusives"
     }
   ],
   "Wallpapers": [
@@ -2359,16 +2362,23 @@
       "category": "Artist's choice"
     },
     {
-      "author": "Unknown Master",
+      "author": "Unknown Master(Exclusives)",
       "url": "https://realzhangandandroid.github.io/amoled/4k/remaster1.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/remaster1t.jpg",
       "name": "January",
-      "category": "HDR REMASTER"
+      "category": "HDR REMASTER,Exclusives"
     },
     {
       "author": "Unknown Master",
       "url": "https://realzhangandandroid.github.io/amoled/4k/remaster2.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/remaster2t.jpg",
+      "name": "January",
+      "category": "HDR REMASTER"
+    },
+    {
+      "author": "Unknown Master",
+      "url": "https://realzhangandandroid.github.io/amoled/4k/stormtrooper_1419.jpg",
+      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/stormtrooper_1419_t.jpg",
       "name": "January",
       "category": "HDR REMASTER"
     }
