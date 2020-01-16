@@ -17,9 +17,6 @@
     },
     {
       "name": "HDR Remaster"
-    },
-    {
-      "name": "Exclusives"
     }
   ],
   "Wallpapers": [
@@ -2359,7 +2356,7 @@
       "url": "https://realzhangandandroid.github.io/amoled/4k/remaster1.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/remaster1t.jpg",
       "name": "January",
-      "category": "HDR Remaster,Exclusives"
+      "category": "HDR Remaster"
     },
     {
       "author": "Unknown Master",
@@ -2395,13 +2392,6 @@
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/646182t.jpg",
       "name": "January",
       "category": "HDR Remaster"
-    },
-    {
-      "author": "Unknown Master(Exclusives)",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/t_hello-i-m-nik-MAgPyHRO0AA-unsplash.jpg",
-      "name": "January",
-      "category": "HDR Remaster,Exclusives"
     }
   ]
 }
