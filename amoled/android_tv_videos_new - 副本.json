@@ -1,0 +1,44 @@
+{
+  "googlevideos": [
+    {
+      "category": "高清",
+      "videos": [
+        {
+          "description": "test",
+          "sources": [
+            "http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8"
+          ],
+          "card": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "background": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "title": "test111",
+          "studio": "test333"
+        },
+        {
+          "description": "test",
+          "sources": [
+            "http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8"
+          ],
+          "card": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "background": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "title": "test111",
+          "studio": "test333"
+        }
+      ]
+    },
+    {
+      "category": "本地",
+      "videos": [
+        {
+          "description": "vvvv",
+          "sources": [
+            "http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8"
+          ],
+          "card": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "background": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
+          "title": "qqq",
+          "studio": "wwww"
+        }
+      ]
+    }
+  ]
+}
